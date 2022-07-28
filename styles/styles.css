@@ -1,0 +1,25 @@
+p {
+    color: #777777;
+}
+
+.edtech-p-white {
+    color: white;
+}
+
+.edtech-price-text-color {
+    color: #289BDE;
+}
+
+.edtech-e-learning-bg {
+    background-color: #d1e7f2;
+}
+
+.edtech-join-bg {
+    background-color: #289BDE;
+}
+
+.edtech-join-btn {
+    background-color: white;
+    font-weight: 500;
+    padding: 10px 45px;
+}
